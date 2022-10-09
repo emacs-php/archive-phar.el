@@ -1,0 +1,7 @@
+*.elc
+*~
+.dir-locals-2.el
+/.cask/*
+/.keg/*
+/.php-cs-fixer.cache
+archive-phar-autoloads.el
