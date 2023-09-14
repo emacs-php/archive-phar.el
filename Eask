@@ -10,6 +10,7 @@
 (script "test" "echo \"Error: no test specified\" && exit 1")
 
 (source 'gnu)
+(source 'melpa)
 
 (depends-on "emacs" "28.1")
 (depends-on "php-runtime" "0.2")
