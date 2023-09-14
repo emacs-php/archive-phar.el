@@ -2,6 +2,8 @@
 *~
 .dir-locals-2.el
 /.cask/*
+/.eask/*
 /.keg/*
+/dist
 /.php-cs-fixer.cache
 archive-phar-autoloads.el
