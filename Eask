@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "archive-phar"
          "1.24.1"
          "Phar file support for archive-mode")
